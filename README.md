@@ -34,9 +34,10 @@ A transactional system for managing book inventory and client sales using direct
 ---
 
 ### 💻 Tech Stack
-* **Language:** C (C99 Standard)
-* **Tools:** GCC Compiler, Valgrind (for memory leak detection), Make.
-* **Paradigm:** Procedural Programming / Modular Design.
+* **Language:** C (Standard C99)
+* **IDE:** CLion (JetBrains)
+* **Build System:** CMake (Default CLion configuration)
+* **Environment:** Windows
 
 ---
 *Note: These implementations prioritize understanding the "under-the-hood" mechanics of data structures over using pre-built libraries.*
